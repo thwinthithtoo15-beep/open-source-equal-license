@@ -8,19 +8,18 @@ A modern, ethical, and equitable hybrid license designed to protect software dev
 
 ## ✨ Key Features of OSEL
 
-### 👤 1. Attribution Required
-Anyone can use, modify, and redistribute your work, but they **must prominently credit your name and contact information** in their projects.
+### 👤 1. Attribution & ShareAlike (Copyleft)
+Anyone can use, modify, and redistribute your work, but they **must credit your name** AND they **must release their derivative projects under the exact same OSEL v1.0 license**. They cannot lock your work inside a private/closed-source project.
 
 ### 🚫 2. Anti-AI Training
-Strictly prohibits the use of your work (code, text, images, or data) for training, fine-tuning, or testing any **Artificial Intelligence (AI), Machine Learning (ML), or Large Language Models (LLMs)** without explicit consent.
+Strictly prohibits the use of your work for training, fine-tuning, or testing any **Artificial Intelligence (AI), Machine Learning (ML), or Large Language Models (LLMs)**.
 
 ### 🛡️ 3. Ethical & Safe Use
-Your work cannot be used in the development of **military weapons, warfare technology, computer viruses, malware**, or any activities that violate human rights or destroy the environment.
+Your work cannot be used in **military weapons, warfare technology, computer viruses, or malware**.
 
 ### 💰 4. Fair Share Tiering
-* **Free Tier:** 100% Free for independent developers, designers, authors, and small businesses making **under $500,000 USD/year**.
-* **Paid Tier:** Large corporations and enterprises making **$500,000 USD or above** must contact you to negotiate a paid commercial license.
-
+* **Free Tier:** 100% Free for creators and small businesses making **under $500,000 USD/year**.
+* **Paid Tier:** Enterprise making **$500,000 USD or above** must contact you for a paid commercial license.
 ---
 
 ## 🚀 How to Use OSEL in Your Project
