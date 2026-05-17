@@ -2,21 +2,23 @@ Open Source Equal License (OSEL)
 Version 1.0, May 2026
 Copyright (c) 2026 OSEL (Open Source Equal License) <thwinthithtoolay@outlook.com>
 
-1. Permissions and Attribution
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software, code, literature, art, or design work (hereinafter referred to as the "Work"), to use, modify, and redistribute the Work, subject to the conditions stated in this License. The user must prominently display the original creator's Name (Credit) and Contact Information (Email/Address) in all copies or substantial portions of the redistributed Work.
+1. Permissions, Attribution, and ShareAlike (Copyleft)
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software, code, literature, art, or design work (the "Work"), to use, modify, and redistribute the Work, subject to the following conditions:
+- The user must prominently display the original creator's Name (Credit) and Contact Information (Email) in all copies or substantial portions of the Work.
+- [ShareAlike] If you alter, transform, or build upon this Work, you MUST distribute the resulting derivative work under the exact same Open Source Equal License (OSEL) Version 1.0. You cannot relicense this work under MIT, Apache, or any closed-source proprietary license.
 
 2. Anti-AI Training Clause
 The Work (including all source code, text, images, and data) shall NOT be used, copied, or harvested for the purpose of training, fine-tuning, or testing any Artificial Intelligence (AI), Machine Learning (ML), or Large Language Models (LLMs). Data scraping or data mining of this Work for AI development is strictly prohibited without explicit written consent from the copyright holder.
 
 3. Ethical and Safe Use
 The use of this Work is strictly prohibited in the following areas and industries:
-* The development, production, or maintenance of military weapons, warfare technology, and weapons of mass destruction.
-* The creation of computer viruses, malware, ransomware, or any software intended to disrupt, damage, or gain unauthorized access to public or private systems.
-* Activities that directly violate human rights or cause severe, systemic environmental destruction.
+- The development, production, or maintenance of military weapons, warfare technology, and weapons of mass destruction.
+- The creation of computer viruses, malware, ransomware, or any software intended to disrupt, damage, or gain unauthorized access to public or private systems.
+- Activities that directly violate human rights or cause severe, systemic environmental destruction.
 
 4. Commercial and Fair Share Tiering
-* Free Tier: Any individual, independent developer, small business, or non-profit organization whose total annual gross revenue is under $500,000 USD may use, modify, and distribute this Work for commercial or non-commercial purposes free of charge.
-* Paid Tier: Any corporation, enterprise, or entity whose total annual gross revenue is $500,000 USD or above must contact the copyright holder directly to negotiate a separate commercial licensing agreement and pay appropriate royalty fees prior to using this Work for commercial purposes.
+- Free Tier: Any individual, independent developer, small business, or non-profit organization whose total annual gross revenue is under $500,000 USD may use, modify, and distribute this Work for commercial or non-commercial purposes free of charge, provided they strictly follow the ShareAlike condition in Section 1.
+- Paid Tier: Any corporation, enterprise, or entity whose total annual gross revenue is $500,000 USD or above must contact the copyright holder directly to negotiate a separate commercial licensing agreement and pay appropriate royalty fees prior to using this Work for commercial purposes.
 
 5. Disclaimer of Warranty
 THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.
