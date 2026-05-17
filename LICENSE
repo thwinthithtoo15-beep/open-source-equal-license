@@ -1,24 +1,23 @@
-This is free and unencumbered software released into the public domain.
+Open Source Equal License (OSEL)
+Version 1.0, May 2026
+Copyright (c) [2026] [OSEL (Open Source Equal License] <[thwinthithtoolay@outlook.com]>
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+1. Permissions and Attribution
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software, code, literature, art, or design work (hereinafter referred to as the "Work"), to use, modify, and redistribute the Work, subject to the conditions stated in this License. The user must prominently display the original creator's Name (Credit) and Contact Information (Email/Address) in all copies or substantial portions of the redistributed Work.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+2. Anti-AI Training Clause
+The Work (including all source code, text, images, and data) shall NOT be used, copied, or harvested for the purpose of training, fine-tuning, or testing any Artificial Intelligence (AI), Machine Learning (ML), or Large Language Models (LLMs). Data scraping or data mining of this Work for AI development is strictly prohibited without explicit written consent from the copyright holder.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+3. Ethical and Safe Use
+The use of this Work is strictly prohibited in the following areas and industries:
 
-For more information, please refer to <https://unlicense.org>
+The development, production, or maintenance of military weapons, warfare technology, and weapons of mass destruction.
+
+The creation of computer viruses, malware, ransomware, or any software intended to disrupt, damage, or gain unauthorized access to public or private systems.
+
+Activities that directly violate human rights or cause severe, systemic environmental destruction.
+
+4. Commercial and Fair Share Tiering
+Free Tier: Any individual, independent developer, small business, or non-profit organization whose total annual gross revenue is under $500,000 USD may use, modify, and distribute this Work for commercial or non-commercial purposes free of charge.
+
+Paid Tier: Any corporation, enterprise, or entity whose total annual gross revenue is $500,000 USD or above must contact the copyright holder directly to negotiate a separate commercial licensing agreement and pay appropriate royalty fees prior to using this Work for commercial purposes.
